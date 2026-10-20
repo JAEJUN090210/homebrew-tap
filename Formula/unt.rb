@@ -6,23 +6,23 @@ class Unt < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/JAEJUN090210/Uranus-NetTools/releases/download/v1.0.1/unt-1.0.1-macos-arm64.tar.gz"
-      sha256 "898781dd9a1f34fead70e2e247eebf70623690aa7a7e603114bc02ff9856fb58"
+      url "https://github.com/JAEJUN090210/Uranus-NetTools/releases/download/v1.0.2/unt-1.0.2-macos-arm64.tar.gz"
+      sha256 "70b58d0e2f19cebcc8cc45aa9e08c7d802b8e4db43a6f91184b118da8e731584"
     end
     on_intel do
-      url "https://github.com/JAEJUN090210/Uranus-NetTools/releases/download/v1.0.1/unt-1.0.1-macos-x64.tar.gz"
-      sha256 "a6e2ebd3b37a197810bcb36c88fbebdb211c722284dcbcb8d44618e4f6b0da9a"
+      url "https://github.com/JAEJUN090210/Uranus-NetTools/releases/download/v1.0.2/unt-1.0.2-macos-x64.tar.gz"
+      sha256 "629a14544836317a63c1558079a70b89ec59c81e446a43b78ae649c0da141754"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/JAEJUN090210/Uranus-NetTools/releases/download/v1.0.1/unt-1.0.1-linux-arm64.tar.gz"
-      sha256 "80b78e15755934ce2f5129cb7d3fb88586370cfefda83b53bf3a5139b7bc7f15"
+      url "https://github.com/JAEJUN090210/Uranus-NetTools/releases/download/v1.0.2/unt-1.0.2-linux-arm64.tar.gz"
+      sha256 "1735d3cc0e8101e1cc5403959d278aa5ad20aae7eb3e4148feec25856a8b9254"
     end
     on_intel do
-      url "https://github.com/JAEJUN090210/Uranus-NetTools/releases/download/v1.0.1/unt-1.0.1-linux-x64.tar.gz"
-      sha256 "48f02440535ae0a2b7a86bbbec593068036843f7b2b2c6d2e516febbfa40eda8"
+      url "https://github.com/JAEJUN090210/Uranus-NetTools/releases/download/v1.0.2/unt-1.0.2-linux-x64.tar.gz"
+      sha256 "994e953ad93be52fa379b2c1b771bfb13d4fb0ec6eab0480219941433115edc5"
     end
   end
 
